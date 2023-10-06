@@ -1,6 +1,6 @@
 # Cronômetro com Registros
 
-Este é um aplicativo de cronômetro desenvolvido em Python com PyQt5, projetado para controle de tempo pessoal. Ele permite que você inicie, pause e finalize diferentes tipos de pausas, registrando o tempo decorrido para cada uma delas. Além disso, os dados são armazenados em um banco de dados SQLite para referência futura.
+Este é um aplicativo de cronômetro desenvolvido em Python com PyQt5, projetado para controle de tempo pessoal. Ele permite que você inicie, pause e finalize diferentes tipos de pausas, registrando o tempo decorrido para cada uma delas. Além disso, os dados são armazenados em um banco de dados SQLite3 para referência futura.
 
 ## Funcionalidades
 
